@@ -17,13 +17,10 @@ My expertise lies in **Django**, **React**, and **REST APIs**, building everythi
 ---
 
 ## 🧰 Tech Stack  
-**Frontend:** React, Redux, HTML5, CSS3, Bootstrap, Tailwind  
-
-**Backend:** Django, Django REST Framework 
-
-**Database:** PostgreSQL, MySQL, SQLite
-
-**DevOps & Tools:** Docker, Git, AWS, VSCode, Postman  
+- **Frontend:** React, Redux, HTML5, CSS3, Bootstrap, Tailwind  
+- **Backend:** Django, Django REST Framework 
+- **Database:** PostgreSQL, MySQL, SQLite
+- **DevOps & Tools:** Docker, Git, AWS, VSCode, Postman  
 
 ---
 
