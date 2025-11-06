@@ -31,11 +31,4 @@ My expertise lies in **Django**, **React**, and **REST APIs**, building everythi
 
 ---
 
-## 📫 Let's Connect  
-🌐 [LinkedIn](https://linkedin.com/in/your-profile)  
-💼 [Portfolio](https://yourportfolio.com)  
-✉️ **Email:** your@email.com  
-
----
-
 ⭐ *“Code should not only work — it should tell a story.”*  
